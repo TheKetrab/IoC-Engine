@@ -1,0 +1,7 @@
+.vs
+packages
+TestResults
+DIEngine/bin
+DIEngine/obj
+Tests/bin
+Tests/obj
