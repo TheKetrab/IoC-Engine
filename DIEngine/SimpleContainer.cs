@@ -97,7 +97,7 @@ namespace DIEngine
         }
 
         /// <summary>
-        /// 
+        /// Metoda do rekurencyjnego rozwiązywania zależności.
         /// </summary>
         /// <param name="type">Typ obiektu, który chcemy rozwiązać.</typeparam>
         /// <param name="onResolving">
